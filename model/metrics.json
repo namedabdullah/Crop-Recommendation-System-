@@ -1,0 +1,17 @@
+{
+  "best_feature": "K",
+  "feature_scores_cv_f1": {
+    "N": 0.1348,
+    "P": 0.1954,
+    "K": 0.2681,
+    "ph": 0.1292
+  },
+  "test_accuracy": 0.3,
+  "test_f1_macro": 0.2632,
+  "test_top3_accuracy": 0.6818,
+  "n_crops": 22,
+  "feature_range": [
+    5.0,
+    205.0
+  ]
+}
